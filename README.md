@@ -1,7 +1,7 @@
 # SuperMetrics 🛒📱
-
-<img width="467" height="822" alt="supermetrics" src="https://github.com/user-attachments/assets/942e5785-432d-4bfc-9659-631abf798ea4" />
-
+<p align="center">
+   <img width="467" height="822" alt="supermetrics" src="https://github.com/user-attachments/assets/942e5785-432d-4bfc-9659-631abf798ea4" />
+</p>
 
 **SuperMetrics** es una aplicación Android nativa desarrollada con **Jetpack Compose** y **Material 3** en Kotlin, diseñada para escanear precios de supermercado en tiempo real directamente desde las etiquetas de góndola con la cámara y sumarlos automáticamente al carrito de compras.
 
